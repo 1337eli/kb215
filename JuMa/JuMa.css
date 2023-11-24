@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a {
+    text-decoration: none;
+}
+.container {
+    padding: 0 15px;
+    margin: 0 auto;
+    max-width: 1140px;
+}
+.header {
+    color: aliceblue;
+    padding: 20px;
+    background-color: #151C39;
+    will-change: 100%;
+}
+.menu-item {
+    list-style-type: none;
+}
+.menu-link {
+    color: aliceblue;
+    text-decoration: none;
+}
+.banner-section {
+    padding: 100px 0;
+    background-image: url(222.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.banner-title {
+    font-size: 50px;
+}
+.banner-description {
+    font-size: 35px;
+}
+.footer {
+    background-image: url(555.jpg);
+    background-size: cover;
+    background-position: center; 
+    padding: 280px 0;
+}

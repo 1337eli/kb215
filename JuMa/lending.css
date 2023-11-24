@@ -1,0 +1,30 @@
+.menu { 
+    display: flex; 
+    align-items: center; 
+    flex-direction: row; 
+    gap: 100px; 
+}
+
+.header-row { 
+    display: flex; 
+    flex-direction: row; 
+    align-items: center; 
+    justify-content: space-between; 
+    gap: 200px; 
+} 
+ 
+.header-logo { 
+    display: flex; 
+    flex-direction: row; 
+    align-items: center; 
+    gap: 50px; 
+}
+
+.header-menu{
+    flex-grow: 3;
+}
+
+.cards-row{
+    display: flex;
+    flex-direction: ;
+}
